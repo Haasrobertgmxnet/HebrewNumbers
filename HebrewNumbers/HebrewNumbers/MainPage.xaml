@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="HebrewNumbers.MainPage">
+
+    <StackLayout>
+        <BoxView Color="LightBlue" />
+        <Label Text="מספרים עבריים" 
+           FontSize="Title"
+           FontAttributes="Bold"
+           FontFamily="Roman"
+           TextColor="Blue"
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+        <Label Text="{Binding LabelText}"
+               FontSize="Large"
+               TextColor="{Binding LabelTextColor}"
+               HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+        <Button Text="{Binding Button1Text}" Clicked="Button1_Clicked"
+                FontSize="Large"
+                HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+        <Button Text="{Binding Button2Text}" Clicked="Button2_Clicked"
+                FontSize="Large"
+                HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+        <BoxView Color="LightBlue" />
+    </StackLayout>
+
+
+</ContentPage>

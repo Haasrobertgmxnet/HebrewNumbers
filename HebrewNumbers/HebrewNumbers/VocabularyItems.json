@@ -1,0 +1,192 @@
+﻿{
+  "0": {
+    "Hebrew": "אֶפֶס",
+    "German": "null",
+    "Spanish": "cero",
+    "French": "zero",
+    "Pronounciation": "efes",
+    "AlreadyAsked": false,
+    "CorrectAtFirstTime": false
+  },
+  "1": {
+    "Hebrew": "אַחַת , אֶחָד",
+    "German": "eins",
+    "Spanish": "uno",
+    "French": "un",
+    "Pronounciation": "echad, achat",
+    "AlreadyAsked": false,
+    "CorrectAtFirstTime": false
+  },
+  "2": {
+    "Hebrew": "שְׁתַּיִם , שְׁנַיִם",
+    "German": "zwei",
+    "Spanish": "dos",
+    "French": "deux",
+    "Pronounciation": "shnayim, shtayim",
+    "AlreadyAsked": false,
+    "CorrectAtFirstTime": false
+  },
+  "3": {
+    "Hebrew": "שָׁלֹשׁ , שְׁלֹשָׁה",
+    "German": "drei",
+    "Spanish": "tres",
+    "French": "trois",
+    "Pronounciation": "shlosha, shalosh",
+    "AlreadyAsked": false,
+    "CorrectAtFirstTime": false
+  },
+  "4": {
+    "Hebrew": "אַרְבַּע , אַרְבָּעָה",
+    "German": "vier",
+    "Spanish": "cuatro",
+    "French": "quatre",
+    "Pronounciation": "arba'a, arba",
+    "AlreadyAsked": false,
+    "CorrectAtFirstTime": false
+  },
+  "5": {
+    "Hebrew": "חָמֵשׁ , חֲמִשָּׁה",
+    "German": "fünf",
+    "Spanish": "cinco",
+    "French": "cinq",
+    "Pronounciation": "chamisha, chamesh",
+    "AlreadyAsked": false,
+    "CorrectAtFirstTime": false
+  },
+  "6": {
+    "Hebrew": "שֵׁשׁ , שִׁשָּׁה",
+    "German": "sechs",
+    "Spanish": "seís",
+    "French": "six",
+    "Pronounciation": "",
+    "AlreadyAsked": false,
+    "CorrectAtFirstTime": false
+  },
+  "7": {
+    "Hebrew": "שֶׁבַע , שִׁבְעָה",
+    "German": "sieben",
+    "Spanish": "siete",
+    "French": "sept",
+    "Pronounciation": "",
+    "AlreadyAsked": false,
+    "CorrectAtFirstTime": false
+  },
+  "8": {
+    "Hebrew": "שְׁמוֹנֶה , שְׁמוֹנָה",
+    "German": "acht",
+    "Spanish": "ocho",
+    "French": "huit",
+    "Pronounciation": "",
+    "AlreadyAsked": false,
+    "CorrectAtFirstTime": false
+  },
+  "9": {
+    "Hebrew": "תֵּשַׁע , תִּשְׁעָה",
+    "German": "neun",
+    "Spanish": "nueve",
+    "French": "neuf",
+    "Pronounciation": "",
+    "AlreadyAsked": false,
+    "CorrectAtFirstTime": false
+  },
+  "10": {
+    "Hebrew": "עֶשֶׂר , עֲשָׂרָה",
+    "German": "zehn",
+    "Spanish": "dies",
+    "French": "dix",
+    "Pronounciation": "",
+    "AlreadyAsked": false,
+    "CorrectAtFirstTime": false
+  },
+  "11": {
+    "Hebrew": "אֲחַת-עֶשְׂרֵה , אֲחַד-עָשָׂר",
+    "German": "elf",
+    "Spanish": "onze",
+    "French": "once",
+    "Pronounciation": "",
+    "AlreadyAsked": false,
+    "CorrectAtFirstTime": false
+  },
+  "12": {
+    "Hebrew": "שְׁתֵּים-עֶשְׂרֵה , שְׁנֵים-עָשָׂר",
+    "German": "zwölf",
+    "Spanish": "doce",
+    "French": "douze",
+    "Pronounciation": "",
+    "AlreadyAsked": false,
+    "CorrectAtFirstTime": false
+  },
+  "13": {
+    "Hebrew": "שְׁלֹשׁ-עֶשְׂרֵה , שְׁלֹשָה-עָשָׂר",
+    "German": "dreizehn",
+    "Spanish": "treze",
+    "French": "treize",
+    "Pronounciation": "",
+    "AlreadyAsked": false,
+    "CorrectAtFirstTime": false
+  },
+  "14": {
+    "Hebrew": "אַרְבַּע-עֶשְׂרֵה , אַרְבָּעָה-עָשָׂר",
+    "German": "vierzehn",
+    "Spanish": "catorze",
+    "French": "quatorze",
+    "Pronounciation": "",
+    "AlreadyAsked": false,
+    "CorrectAtFirstTime": false
+  },
+  "15": {
+    "Hebrew": "חֲמֵשׁ-עֶשְׂרֵה , חֲמִשָּׁה-עָשָׂר",
+    "German": "fünfzehn",
+    "Spanish": "quince",
+    "French": "quince",
+    "Pronounciation": "",
+    "AlreadyAsked": false,
+    "CorrectAtFirstTime": false
+  },
+  "16": {
+    "Hebrew": "שֵׁש-עֶשְׂרֵה , שִׁשָּׁה-עָשָׂר",
+    "German": "sechzehn",
+    "Spanish": "dieciseís",
+    "French": "seize",
+    "Pronounciation": "",
+    "AlreadyAsked": false,
+    "CorrectAtFirstTime": false
+  },
+  "17": {
+    "Hebrew": "שְׁבַע-עֶשְׂרֵה , שִׁבְעָה-עָשָׂר",
+    "German": "siebzehn",
+    "Spanish": "diecisiete",
+    "French": "dix-sept",
+    "Pronounciation": "",
+    "AlreadyAsked": false,
+    "CorrectAtFirstTime": false
+  },
+  "18": {
+    "Hebrew": "שְמוֹנֶה-עֶשְׂרֵה , שְׁמוֹנָה-עָשָׂר",
+    "German": "achtzehn",
+    "Spanish": "dieciocho",
+    "French": "dix-huit",
+    "Pronounciation": "",
+    "AlreadyAsked": false,
+    "CorrectAtFirstTime": false
+  },
+  "19": {
+    "Hebrew": "תְּשַׁע-עֶשְׂרֵה , תִּשְׁעָה-עָשָׂר",
+    "German": "neunzehn",
+    "Spanish": "diecinueve",
+    "French": "dix-neuf",
+    "Pronounciation": "",
+    "AlreadyAsked": false,
+    "CorrectAtFirstTime": false
+  },
+  "20": {
+    "Hebrew": "עֶשְׂרִים",
+    "German": "zwanzig",
+    "Spanish": "veinte",
+    "French": "vingt",
+    "Pronounciation": "esrim",
+    "AlreadyAsked": false,
+    "CorrectAtFirstTime": false
+  }
+
+}
