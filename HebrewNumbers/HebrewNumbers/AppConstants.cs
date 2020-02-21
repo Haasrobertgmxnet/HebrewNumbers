@@ -11,9 +11,9 @@ namespace HebrewNumbers
                 switch (Device.RuntimePlatform)
                 {
                     case Device.Android:
-                        return "";
+                        return "ca-app-pub-4182244404624975~3142526058";
                     default:
-                        return "";
+                        return "ca-app-pub-4182244404624975~3142526058";
                 }
             }
         }
